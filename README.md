@@ -30,7 +30,7 @@ Por el momento no acepto contribuciones
 
 ## Autores
 
-- **Raúl Alejandro Díaz Gutiérrez** - [Repositorio](https://github.com/a329782)
+- **Raúl Alejandro Díaz Gutiérrez** - [Repositorio](https://github.com/adiazdev)
 
 ## Licencia
 
